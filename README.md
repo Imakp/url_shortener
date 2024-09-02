@@ -41,11 +41,11 @@ cd url-shortener
 python3 -m venv url-shortener-env
 ```
 ### 3. Activate the Virtual Environment
-#### On macOS/Linux:
+- **On macOS/Linux:**
 ```bash
 source url-shortener-env/bin/activate
 ```
-#### On Windows:
+- **On Windows:**
 ```bash
 url-shortener-env\Scripts\activate
 ```
