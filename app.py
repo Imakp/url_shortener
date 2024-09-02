@@ -58,4 +58,4 @@ def redirect_to_url(short_url):
 
 if __name__ == '__main__':
     init_db()
-    app.run(debug=True)
+    app.run(debug=False)  
